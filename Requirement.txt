@@ -1,0 +1,19 @@
+pip install cmake
+
+pip install boost
+
+Download the dlib-19.24.99-cp312-cp312-win_amd64.whl file
+
+Then go to the specific directory where the downloaded file is located(eg. path to downloads)
+
+python -m pip install dlib-19.24.99-cp312-cp312-win_amd64.whl
+
+Make sure python version is 3.12
+
+pip install face_recognition
+
+pip install git+https://github.com/ageitgey/face_recognition_models
+
+pip install setuptools
+
+pip install opencv-python
